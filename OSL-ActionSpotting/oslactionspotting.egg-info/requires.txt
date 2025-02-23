@@ -1,0 +1,12 @@
+typer[All]
+tqdm
+SoccerNet
+matplotlib
+scikit-learn
+mmengine
+pytorch-lightning
+numpy<2.0
+opencv-python
+moviepy
+tabulate
+timm
